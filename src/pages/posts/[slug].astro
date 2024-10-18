@@ -23,6 +23,7 @@ const author = (await getEntry('author', post.data.author.id)).data;
 ---
 
 <BlogLayout title={frontmatter.title}>
+    <a href="/" id="btn-back">Regresar</a>
   <h1 class="text-xs text-gray-500 mb-0">{frontmatter.title}</h1>
 
   <div class="text-md text-gray-400 mb-0 flex flex-row mt-2">

@@ -1,3 +1,8 @@
+## The deploy is done on Netlify.
+
+[![🚀 Deploy](https://img.shields.io/badge/Deploy-pink?style=for-the-badge&logo=rocket)](https://cinlo-blog.netlify.app/)
+
+
 # Astro Starter Kit: Minimal
 
 ```sh
